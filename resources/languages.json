@@ -31,6 +31,8 @@
   ".hs":          {"name": "haskell", "symbol": "--"},
   ".ini":         {"name": "ini", "symbol": ";"},
   ".jade":        {"name": "jade", "symbol": "//-"},
+  ".libsonnet":   {"name": "jsonnet", "symbol": "//"},
+  ".jsonnet":     {"name": "jsonnet", "symbol": "//"},
   ".js":          {"name": "javascript", "symbol": "//"},
   ".jsm":         {"name": "javascript", "symbol": "//"},
   ".jsx":         {"name": "javascript", "symbol": "//"},
@@ -82,5 +84,6 @@
   ".rs":          {"name": "rust", "symbol": "//"},
   ".wsc":         {"name": "vbscript", "symbol": "'"},
   ".wsf":         {"name": "vbscript", "symbol": "'"},
+  ".yml":         {"name": "yaml", "symbol": "#"}
   ".yaml":        {"name": "yaml", "symbol": "#"}
 }
